@@ -45,9 +45,9 @@
             .g:nth-of-type(4){background-image: url(../img/one7.webp);}
             .g:nth-of-type(5){background-image: url(../img/one1.webp);}
 
-            .g>p{z-index: 5; height: 50%; position: relative; top:5.5vw; left:0px; font-size: 4.4vw; text-align: center; color: white;}
-            .g:nth-of-type(4)>p{font-size: 4.4vw; top:5.5vw; left:0px; text-align: center; }
-            .g:nth-of-type(5)>p{font-size: 4.4vw; position: relative; top:5.5vw; left:-0.3vw; text-align: center; }
+            .g>p{z-index: 5; height: 50%; position: relative; top:7.5vw; left:0px; font-size: 4.4vw; text-align: center; color: white;}
+            .g:nth-of-type(4)>p{font-size: 4.4vw; top:7.5vw; left:0px; text-align: center; }
+            .g:nth-of-type(5)>p{font-size: 4.4vw; position: relative; top:7.5vw; left:-0.3vw; text-align: center; }
 
         }
 
@@ -73,9 +73,9 @@
             .g:nth-of-type(4){background-image: url(../img/one7.webp);}
             .g:nth-of-type(5){background-image: url(../img/one1.webp);}
 
-            .g>p{z-index: 5; height: 50%; position: relative; top:0.8vw; left:0px; font-size: 2.5vw; text-align: center; color: white;}
-            .g:nth-of-type(4)>p{font-size: 2.5vw; top:0.8vw; left:0px; text-align: center; }
-            .g:nth-of-type(5)>p{font-size: 2.5vw; position: relative; top:0.8vw; left:-0.3vw; text-align: center; }
+            .g>p{z-index: 5; height: 50%; position: relative; top:0.4vw; left:0px; font-size: 2.5vw; text-align: center; color: white;}
+            .g:nth-of-type(4)>p{font-size: 2.5vw; top:0.4vw; left:0px; text-align: center; }
+            .g:nth-of-type(5)>p{font-size: 2.5vw; position: relative; top:0.4vw; left:-0.3vw; text-align: center; }
 
         }
 
@@ -95,15 +95,15 @@
 
             #ch{width: 80%; height: auto; display: flex; flex-wrap: wrap; justify-content: space-between;  margin: 7% auto 5% auto; padding: 3%;}
             .g{width: 10vw; height: 10vw; overflow: hidden;  padding: 2%; border-radius: 50%; cursor: pointer; background-position: center; background-size: cover; opacity: 0.8;}
-        .g:hover{text-shadow: 2px 2px 8px black; opacity: 1;}
-        .g:nth-of-type(1){background-image: url(../img/one2.webp);}
-        .g:nth-of-type(2){background-image: url(../img/one3.webp);}
-        .g:nth-of-type(3){background-image: url(../img/one6.webp);}
-        .g:nth-of-type(4){background-image: url(../img/one7.webp);}
-        .g:nth-of-type(5){background-image: url(../img/one1.webp);}
-        
-        .g>p{z-index: 5; height: 50%; position: relative; top:1.5vw; left:0px; font-size: 2vw; color: white; text-align: center;}
-        .g:nth-of-type(4)>p{top:1.5vw; left:0px; text-align: center;}
-        .g:nth-of-type(5)>p{color: white; font-size: 2vw; position: relative; top:1.5vw; left:0px; text-align: center;}
+            .g:hover{text-shadow: 2px 2px 8px black; opacity: 1;}
+            .g:nth-of-type(1){background-image: url(../img/one2.webp);}
+            .g:nth-of-type(2){background-image: url(../img/one3.webp);}
+            .g:nth-of-type(3){background-image: url(../img/one6.webp);}
+            .g:nth-of-type(4){background-image: url(../img/one7.webp);}
+            .g:nth-of-type(5){background-image: url(../img/one1.webp);}
+            
+            .g>p{z-index: 5; height: 50%; position: relative; top:2vw; left:0px; font-size: 2vw; color: white; text-align: center;}
+            .g:nth-of-type(4)>p{top:2vw; left:0px; text-align: center;}
+            .g:nth-of-type(5)>p{color: white; font-size: 2vw; position: relative; top:2vw; left:0px; text-align: center;}
 
         }
